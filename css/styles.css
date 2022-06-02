@@ -57,7 +57,7 @@ text-decoration: none;
 }
 
 body{
-  background-image: url('./images/pattern-background-desktop.svg');
+  background-image: url('../images/pattern-background-desktop.svg');
   background-repeat: no-repeat;
   background-size: contain;
 }
@@ -82,7 +82,7 @@ main > header{
 }
 
 .img-hero{
-  background: url("./images/illustration-hero.svg");
+  background: url("../images/illustration-hero.svg");
   background-size: cover;
   border-start-end-radius: 3rem;
   border-start-start-radius: 3rem;
@@ -116,7 +116,7 @@ aside{
 }
 
 .icon-music{
-  background: url("./images/icon-music.svg");
+  background: url("../images/icon-music.svg");
   width: 48px;
   height: 48px;
   background-size: contain;
@@ -183,7 +183,7 @@ footer > p{
   }
 
   body{
-    background: url("./images/pattern-background-mobile.svg");
+    background: url("../images/pattern-background-mobile.svg");
     background-repeat: no-repeat;
     background-size: contain;
   }
@@ -259,7 +259,7 @@ footer > p{
   }
 
   body{
-    background: url("./images/pattern-background-mobile.svg");
+    background: url("../images/pattern-background-mobile.svg");
     background-repeat: no-repeat;
     background-size: contain;
   }
